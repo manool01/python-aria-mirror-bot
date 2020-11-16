@@ -1,2 +1,2 @@
-chmod -R 777 python-aria-mirror-bot
+chmod -R 777 
 
